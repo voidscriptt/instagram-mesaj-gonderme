@@ -1,3 +1,6 @@
+# Gerekli Kütüphaneler
+-Selenium
+
 # instagram-mesaj-gonderme
 İnstagram mesaj gönderme otomasyonu
 
