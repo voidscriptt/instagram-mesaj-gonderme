@@ -9,7 +9,7 @@ kisi = input("Kişinin linki: ")
 mesaj = input("Yazılacak mesaj: ")
 
 # Selenium tarayıcısını başlatın
-driver = webdriver.Edge()
+driver = webdriver.Chrome()
 
 # Instagram web sitesine gidin
 driver.get("https://www.instagram.com/")
