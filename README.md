@@ -9,4 +9,4 @@ Kullanıcı adınızı giriniz:
 Kişinin linki: 
 Yazılacak mesaj: 
 
-kodu çalıştırıp bu kısımları doldurunuz. Otomatik olarak doldurduğunuz kısımlara göre mesaj gönderecektir.
+kodu çalıştırıp bu kısımları doldurunuz. Otomatik olarak, doldurduğunuz kısımlara göre mesaj gönderecektir.
